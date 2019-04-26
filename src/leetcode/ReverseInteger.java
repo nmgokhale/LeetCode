@@ -15,7 +15,6 @@ package leetcode;
  * 
  * */
 
-import java.util.ArrayList;
 
 public class ReverseInteger {
 	public int reverse(int x) {
